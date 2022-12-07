@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hancandice&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=D6C595" width=98% />
 </a> -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=hancandice&theme=react-dark&bg_color=20232a&hide_border=true&line=D6C595&color=D6C595" width=98%/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=hancandice&theme=dracula&bg_color=20232a&hide_border=true&line=D6C595&color=D6C595" width=98%/>
 </a>
 
 <!--
