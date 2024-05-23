@@ -1,4 +1,7 @@
-# Welcome to My GitHub Profile
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello<br/><br/><br/><br/>&desc=I'm%20hancandice&fontAlign=50&animation=blink&fontSize=40&descSize=20&reversal=false&section=header&textBg=false)
+
+
+# Welcome to My GitHub Profile 
 
 Hi! I'm hancandice, a passionate developer with experience in a wide range of technologies and tools. Below is an overview of my skills, the technology stack I've worked with, and some of my notable projects.
 
