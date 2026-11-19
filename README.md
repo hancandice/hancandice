@@ -1,17 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hero-dark-sm.svg" />
-  <source media="(max-width: 600px)" srcset="assets/hero-light-sm.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
-  <img alt="Jeeyoung Han, senior mobile engineer in Paris. I build apps that handle real money, from React Native down to Swift, Kotlin and the backend behind them." src="assets/hero-light.svg" width="100%" />
+  <source media="(max-width: 600px)" srcset="assets/hero-dark-sm.svg" />
+  <img alt="Jeeyoung Han, senior mobile engineer in Paris. I build apps that handle real money, from React Native down to Swift, Kotlin and the backend behind them." src="assets/hero-dark.svg" width="100%" />
 </picture>
 
-<br />
-
 <p align="center">
-  <a href="https://hancandice.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg" /><img alt="Portfolio" src="assets/btn-portfolio-light.svg" width="152" height="44" /></picture></a>
-  <a href="https://www.linkedin.com/in/candice-h-81814a173"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg" /><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" width="152" height="44" /></picture></a>
-  <a href="https://www.npmjs.com/~jeehahn"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-npm-dark.svg" /><img alt="npm" src="assets/btn-npm-light.svg" width="152" height="44" /></picture></a>
-  <a href="mailto:jeeyoung.han82@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg" /><img alt="Email" src="assets/btn-email-light.svg" width="152" height="44" /></picture></a>
+  <img src="assets/spacer.svg" width="1" height="10" alt="" /><br />
+  <a href="https://hancandice.netlify.app"><img alt="Portfolio" src="assets/btn-portfolio-dark.svg" width="152" height="44" /></a>
+  <a href="https://www.linkedin.com/in/candice-h-81814a173"><img alt="LinkedIn" src="assets/btn-linkedin-dark.svg" width="152" height="44" /></a>
+  <a href="https://www.npmjs.com/~jeehahn"><img alt="npm" src="assets/btn-npm-dark.svg" width="152" height="44" /></a>
+  <a href="mailto:jeeyoung.han82@gmail.com"><img alt="Email" src="assets/btn-email-dark.svg" width="152" height="44" /></a>
 </p>
 
 **8+ years in mobile · React Native since 2018.**
